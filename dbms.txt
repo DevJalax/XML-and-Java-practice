@@ -1,0 +1,5 @@
+1)RDBMS basics
+2)DB design : ER model , decomposition and Normal forms
+3)Transaction mgmt : ACID , sys and media recovery , 2 phase commit and savepoints , concurrency , locking protocols , deadlock , recovery isolation
+4)Storage media, RAID , Record org , indexing and hashing , b+ trees , query processing and optimization
+5)cloud , distributed db , dmdw , mobile xml db , big data and nosql 
